@@ -1,6 +1,6 @@
 # Hi there, I'm Yashvardhan! 👋
 
-## 🚀 About Me
+## 🔍 About Me
 I'm an Analytics Engineer, I hold a Mastersin Business Analytics from Boston University. I love transforming data into actionable insights that drive growth and innovation.
 
 - 💬 Ask me about data visualization, predictive modeling, or the best coffee spots in Boston!

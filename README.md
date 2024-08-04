@@ -4,7 +4,7 @@
 I'm an Analytics Engineer, I hold a Masters in Business Analytics from Boston University. I love transforming data into actionable insights that drive growth and innovation.
 
 - 💬 Ask me about latest tech, interesting podcasts, or the best coffee spots in Boston!
-- 📫 How to reach me: [Email](mailto:yranawat@bu.edu) or [LinkedIn](https://www.linkedin.com/in/yashvardhan-singh-ranawat/)
+- 📫 How to reach me: yranawat@bu.edu or [LinkedIn](https://www.linkedin.com/in/yashvardhan-singh-ranawat/)
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
 
 ## 🛠️ Skills & Technologies
